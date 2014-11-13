@@ -1,3 +1,5 @@
+from piazzaPost import *
+
 def getBigrams(listOfWords):
     '''
     * Requires: listOfWords is a list of strings.
@@ -115,4 +117,43 @@ def getStopWords(stopFileName):
     '''
 
 
+def readPiazzaData(fname):
+    '''
+    * Requires: fname is the name of the Piazza data to be read in.
+    * Modifies: Nothing.
+    * Effects:  Returns a dictionary of {ID:PiazzaPost} pairs. ID is a string.
+    '''
+    #Open the file and read all lines
+    F = open(fname,"r")
+    lines = F.readlines()
+    F.close()
 
+    #Initialize our dictionary
+    posts = {}
+
+    #We know the format
+    for i in range(0,len(lines),12):
+        data = [lines[i+j].strip().split(":")[1] for j in range(1,11)]
+        data[5] = data[5].split(",")
+        p = PiazzaPost(data)
+        posts[str(i/12)] = p
+    return posts
+
+if __name__=='__main__':
+  posts = readPiazzaData("piazzaData.txt")
+  print posts["3422"]
+  #This is test code that should run the first time you run "python indexer.py"
+  #Expected output is (not including the triple quotes):
+  """
+--------------------------------------------------------------------------------Piazza Post: 3422
+Poster: instructor
+Num Views: None
+Type: i_answer
+Created: 2014-10-15T18
+Tags: 
+Endorsements: 1
+Response To: 3421
+Subject: 
+Content: Please include the question itself when posting about CodeLab (as stated in @6). As for the feedback, it usually gives you examples that CodeLab runs, listing what your result was and what the final result should have been. In terms of corner cases, some possibilities to think about are
+--------------------------------------------------------------------------------
+  """
