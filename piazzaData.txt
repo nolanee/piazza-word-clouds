@@ -8,7 +8,7 @@ Tags:
 Endorsements:0
 Response To:-1
 Subject:Welcome to Piazza!
-Content: Piazza is a Q&amp;A platform designed to get you great answers from classmates and instructors fast. We've put together this list of tips you might find handy as you get started: 1. Ask questions! The best way to get answers is to ask questions! Ask questions on Piazza rather than emailing your teaching staff so everyone can benefit from the response (and so you can get answers from classmates who are up as late as you are). 2. Edit questions and answers wiki-style. Think of Piazza as a Q&amp;A wiki for your class. Every question has just a single students' answer that students can edit collectively (and a single instructors&#8217; answer for instructors). 3. Add a followup to comment or ask further questions. To comment on or ask further questions about a post, start a followup discussion. Mark it resolved when the issue has been addressed, and add any relevant information back into the Q&amp;A above. 4. Go anonymous. Shy? No problem. You can always opt to post or edit anonymously. 5. Tag your posts. It's far more convenient to find all posts about your Homework 3 or Midterm 1 when the posts are tagged. Type a &#8220;#&#8221; before a key word to tag. Click a blue tag in a post or the question feed to filter for all posts that share that tag. 6. Format code and equations. Adding a code snippet? Click the pre or tt button in the question editor to add pre-formatted or inline teletype text. Mathematical equation? Click the Fx button to access the LaTeX editor to build a nicely formatted equation. 7. View and download class details and resources. Click the Course Page button in your top bar to access the class syllabus, staff contact information, office hours details, and course resources&#8212;all in one place! Contact the Piazza Team anytime with questions or comments at team@piazza.com. We love feedback!
+Content: Piazza is a Q&A platform designed to get you great answers from classmates and instructors fast. We've put together this list of tips you might find handy as you get started: 1. Ask questions! The best way to get answers is to ask questions! Ask questions on Piazza rather than emailing your teaching staff so everyone can benefit from the response (and so you can get answers from classmates who are up as late as you are). 2. Edit questions and answers wiki-style. Think of Piazza as a Q&A wiki for your class. Every question has just a single students' answer that students can edit collectively (and a single instructors' answer for instructors). 3. Add a followup to comment or ask further questions. To comment on or ask further questions about a post, start a followup discussion. Mark it resolved when the issue has been addressed, and add any relevant information back into the Q&A above. 4. Go anonymous. Shy? No problem. You can always opt to post or edit anonymously. 5. Tag your posts. It's far more convenient to find all posts about your Homework 3 or Midterm 1 when the posts are tagged. Type a "#" before a key word to tag. Click a blue tag in a post or the question feed to filter for all posts that share that tag. 6. Format code and equations. Adding a code snippet? Click the pre or tt button in the question editor to add pre-formatted or inline teletype text. Mathematical equation? Click the Fx button to access the LaTeX editor to build a nicely formatted equation. 7. View and download class details and resources. Click the Course Page button in your top bar to access the class syllabus, staff contact information, office hours details, and course resources-all in one place! Contact the Piazza Team anytime with questions or comments at team@piazza.com. We love feedback!
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1
@@ -19,7 +19,7 @@ Created:2014-08-10T12:58:27Z
 Tags:private
 Endorsements:0
 Response To:-1
-Subject:Tips &amp; Tricks for a successful class
+Subject:Tips & Tricks for a successful class
 Content:PA.load("/dashboard/tips_tricks", null, function(data){ $('#' + 'questionText').html(data);});
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -116,7 +116,7 @@ Tags:no_history, other, pin
 Endorsements:0
 Response To:-1
 Subject:HOW TO USE PIAZZA
-Content:Welcome to 183 on Piazza! We'll be conducting all class-related discussion here this term. The quicker you begin asking questions on Piazza (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. We encourage you to ask questions when you're struggling to understand a concept&#8212;you can even do so anonymously. Guidelines for using Piazza: Search Always search for your question topic before you post. Piazza centers around the idea of building a single question and answer thread for each specific topic, resulting in less total posts (easier to search and browse) and more information in one place for those seeking help. Similar question? Follow up If there is a related question, but it is not exactly your question please post it as a followup question so other students can easily find the help they need. If questions are very similar, you can link between them with the '@' symbol: for example, @6 Use a clear topic for your post The more specific your topic is, the easier it is for others to find your post if they have the same question. Give context If you're posting about Codelab, Zyante or a practice exam, please include the question's number and the full prompt in your post. Add tags and folders If you are asking a questions about project 3, add the "project3" folder to your post. This makes it easier for others to find the discussion. Return the favor Know the answer to a question? Help others out by contributing to the Student Answer. Show your support Like someone's answer? Click "good answer" to show your approval! Don't post code Posting or sharing actual code is a violation of the Engineering Honor Code. Offending posts will be removed. - The 183 Staff <link> Course Website 183 Course Policies Engineering Honor Code Proper Use of Information Resources #pin
+Content:Welcome to 183 on Piazza! We'll be conducting all class-related discussion here this term. The quicker you begin asking questions on Piazza (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. We encourage you to ask questions when you're struggling to understand a concept-you can even do so anonymously. Guidelines for using Piazza: Search Always search for your question topic before you post. Piazza centers around the idea of building a single question and answer thread for each specific topic, resulting in less total posts (easier to search and browse) and more information in one place for those seeking help. Similar question? Follow up If there is a related question, but it is not exactly your question please post it as a followup question so other students can easily find the help they need. If questions are very similar, you can link between them with the '@' symbol: for example, @6 Use a clear topic for your post The more specific your topic is, the easier it is for others to find your post if they have the same question. Give context If you're posting about Codelab, Zyante or a practice exam, please include the question's number and the full prompt in your post. Add tags and folders If you are asking a questions about project 3, add the "project3" folder to your post. This makes it easier for others to find the discussion. Return the favor Know the answer to a question? Help others out by contributing to the Student Answer. Show your support Like someone's answer? Click "good answer" to show your approval! Don't post code Posting or sharing actual code is a violation of the Engineering Honor Code. Offending posts will be removed. - The 183 Staff <link> Course Website 183 Course Policies Engineering Honor Code Proper Use of Information Resources #pin
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:10
@@ -391,7 +391,7 @@ Created:2014-09-04T01:24:42Z
 Tags:
 Endorsements:0
 Response To:29
-Subject:Register and complete the exercises/readings by the first deadline on the <link> syllabus. Umich servers seem to fail to load those pages. Try copying and pasting these links in a new window of your web browser: <link> http://umich.edu/~eecs183/docs/zyante.html http://umich.edu/~eecs183/docs/codelab.html
+Subject:Register and complete the exercises/readings by the first deadline on the <link> syllabus. Umich servers seem to fail to load those pages. Try copying and pasting these links in a new window of your web browser: <link> <link> mich.edu/~eecs183/docs/zyante.html <link> mich.edu/~eecs183/docs/codelab.html
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -764,7 +764,7 @@ Tags:logistics, other
 Endorsements:0
 Response To:-1
 Subject:Automatic Grader Problems
-Content:Hey! So I've finished the 280 Diagnostics -> <link> https://g280.eecs.umich.edu/project_files/<link> and i'm trying to submit them to autograder. The error printout i'm getting basically says I haven't declared my functions, but I used a #import arrays.h (the header file that was given to us) at the top of arrays.cpp. Am I missing something? Or do I need to re-declare basically everything inside the actual arrays.cpp? 
+Content:Hey! So I've finished the 280 Diagnostics -> <link> <link> 280.eecs.umich.edu/project_files/<link> and i'm trying to submit them to autograder. The error printout i'm getting basically says I haven't declared my functions, but I used a #import arrays.h (the header file that was given to us) at the top of arrays.cpp. Am I missing something? Or do I need to re-declare basically everything inside the actual arrays.cpp? 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:64
@@ -1100,7 +1100,7 @@ Tags:
 Endorsements:0
 Response To:90
 Subject:
-Content:The style grader is located here: <link> https://www.umich.edu/~eecs183/#183style (found by clicking "Style" on the EECS 183 site, then "183style"). You're allowed to submit as much as you would like to the style grader at this time.
+Content:The style grader is located here: <link> <link> ww.umich.edu/~eecs183/#183style (found by clicking "Style" on the EECS 183 site, then "183style"). You're allowed to submit as much as you would like to the style grader at this time.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:92
@@ -1459,7 +1459,7 @@ Created:2014-09-07T19:30:30Z
 Tags:
 Endorsements:0
 Response To:118
-Subject:Yes, that's correct; it won't be graded. Here's the link for the hour of code from code.org -- <link> http://learn.code.org/hoc/1 As far as I know, that does not need an account. 
+Subject:Yes, that's correct; it won't be graded. Here's the link for the hour of code from code.org -- <link> <link> earn.code.org/hoc/1 As far as I know, that does not need an account. 
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -1496,7 +1496,7 @@ Tags:
 Endorsements:1
 Response To:123
 Subject:
-Content:I believe all computer labs on Central campus have either xcode or visual loaded onto the machines. If you like North Campus, you may stop into the Dude (Duderstadt Center -- the library), go to the CAEN hotline desk and request a CAEN account. Show them that you are registered in EECS183 and they will setup a CAEN account for you -- needed for every machine on North Campus and some on Central in basement of library. Again, CAEN machines are loaded with xcode or Mac and Visual for PCs happy coding Edit: Just checked some Macs on central to confirm and Xcode was indeed loaded on all of them. Here's a map of computer labs around campus -- <link> http://www.itcs.umich.edu/sites/labs/locations.php (see blue shaded buildings, and yellow shaded if you're in a dorm). 
+Content:I believe all computer labs on Central campus have either xcode or visual loaded onto the machines. If you like North Campus, you may stop into the Dude (Duderstadt Center -- the library), go to the CAEN hotline desk and request a CAEN account. Show them that you are registered in EECS183 and they will setup a CAEN account for you -- needed for every machine on North Campus and some on Central in basement of library. Again, CAEN machines are loaded with xcode or Mac and Visual for PCs happy coding Edit: Just checked some Macs on central to confirm and Xcode was indeed loaded on all of them. Here's a map of computer labs around campus -- <link> <link> ww.itcs.umich.edu/sites/labs/locations.php (see blue shaded buildings, and yellow shaded if you're in a dorm). 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:125
@@ -1508,7 +1508,7 @@ Tags:project1
 Endorsements:0
 Response To:-1
 Subject:Amount of Butter
-Content:Hello, On the website that has the tests for project one <link> https://www.umich.edu/~eecs183/projects/project1/project1.html#_distribution_code It says that for 25 guests there should be 2 pounds of butter. 24 guests would require exactly 2 batches of cupcakes at a rate of 12oz per batch. That would come out to be .75 lbs per batch. So for 2 batches of cupcakes, one would requires 1.5 pounds--2 pounds of butter. For 3 batches however, one would require (0.75lb * 3 batches = 2.25 lbs). One would need to purchase 3 pounds of butter to cover the 2.25 lb requirement. I'm just wondering if there was an error on the page found at the link above? Or is my reasoning incorrect? This can be found in the "Further Testing" section. Thanks,
+Content:Hello, On the website that has the tests for project one <link> <link> ww.umich.edu/~eecs183/projects/project1/project1.html#_distribution_code It says that for 25 guests there should be 2 pounds of butter. 24 guests would require exactly 2 batches of cupcakes at a rate of 12oz per batch. That would come out to be .75 lbs per batch. So for 2 batches of cupcakes, one would requires 1.5 pounds--2 pounds of butter. For 3 batches however, one would require (0.75lb * 3 batches = 2.25 lbs). One would need to purchase 3 pounds of butter to cover the 2.25 lb requirement. I'm just wondering if there was an error on the page found at the link above? Or is my reasoning incorrect? This can be found in the "Further Testing" section. Thanks,
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:126
@@ -2312,7 +2312,7 @@ Tags:
 Endorsements:2
 Response To:191
 Subject:
-Content:iostream also gives you getline and endl This is also one of those questions that Google works great for. There's an online resource dedicated to documentation of the C++ programming language. Here's what you're looking for: http://www.cplusplus.com/reference/iostream/ 
+Content:iostream also gives you getline and endl This is also one of those questions that Google works great for. There's an online resource dedicated to documentation of the C++ programming language. Here's what you're looking for: <link> ww.cplusplus.com/reference/iostream/ 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:193
@@ -3271,7 +3271,7 @@ Created:2014-09-10T18:56:12Z
 Tags:
 Endorsements:0
 Response To:266
-Subject:Enable the page guide at column 80 in Preferences. See https://www.umich.edu/~eecs183/docs/getting_started_with_xcode_5.html#_tuning_xcode
+Subject:Enable the page guide at column 80 in Preferences. See <link> ww.umich.edu/~eecs183/docs/getting_started_with_xcode_5.html#_tuning_xcode
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3380,7 +3380,7 @@ Tags:zyante
 Endorsements:0
 Response To:-1
 Subject:Zyante 2.8.5 Error Message
-Content:Hey, y'all. I'm getting this error message when I try to run my program for Activity 2.8.5 in Zyante: main.cpp: In function &#8216;int main()&#8217;: main.cpp:9:28: error: &#8216;getLine&#8217; was not declared in this scope I'm not sure what's going on... Help, please!
+Content:Hey, y'all. I'm getting this error message when I try to run my program for Activity 2.8.5 in Zyante: main.cpp: In function 'int main()': main.cpp:9:28: error: 'getLine' was not declared in this scope I'm not sure what's going on... Help, please!
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:282
@@ -3548,7 +3548,7 @@ Tags:
 Endorsements:0
 Response To:294
 Subject:
-Content:Your assignment is to read sections 2.1&#8211;2.18. Section 2.18 does in fact exist. You might need to scroll down if your browser window is not very big. <image> width="270" height="537" 
+Content:Your assignment is to read sections 2.1-2.18. Section 2.18 does in fact exist. You might need to scroll down if your browser window is not very big. <image> width="270" height="537" 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:296
@@ -4076,7 +4076,7 @@ Tags:
 Endorsements:0
 Response To:338
 Subject:
-Content:go to the library site and in their search field type "safari" Here's the direct link to Safari Books: http://proquest.safaribooksonline.com.proxy.lib.umich.edu.
+Content:go to the library site and in their search field type "safari" Here's the direct link to Safari Books: <link> roquest.safaribooksonline.com.proxy.lib.umich.edu.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:340
@@ -4424,7 +4424,7 @@ Tags:
 Endorsements:1
 Response To:367
 Subject:
-Content:Don't forget the frosting: &#189; cup unsalted butter (1 stick), room temperature Vanilla Buttercream Frosting: 1 cup (8 ounces) unsalted butter, at room temperature So it's not 0.5 cups, but 1.5 cups.
+Content:Don't forget the frosting: 1/2 cup unsalted butter (1 stick), room temperature Vanilla Buttercream Frosting: 1 cup (8 ounces) unsalted butter, at room temperature So it's not 0.5 cups, but 1.5 cups.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:369
@@ -4448,7 +4448,7 @@ Tags:
 Endorsements:0
 Response To:369
 Subject:
-Content:this is explained in the "Getting Started with xCode" and "Getting Started with Visual" documents posted on our website -- under LINKS on the home page of umich.edu/~eecs183 Within the docs: look under "Tuning xCode" or "Tuning Visual" or Visual Studio: <link> http://msdn.microsoft.com/en-us/library/aa265105%28v=vs.60%29.aspx; also see <link> http://stackoverflow.com/questions/14167033/visual-studio-2010-replace-tab-with-4-spaces XCode: <link> http://stackoverflow.com/questions/16208065/xcode-indentation-alignment-settings-spaces-tabs (look into the first answer) 
+Content:this is explained in the "Getting Started with xCode" and "Getting Started with Visual" documents posted on our website -- under LINKS on the home page of umich.edu/~eecs183 Within the docs: look under "Tuning xCode" or "Tuning Visual" or Visual Studio: <link> <link> sdn.microsoft.com/en-us/library/aa265105%28v=vs.60%29.aspx; also see <link> <link> tackoverflow.com/questions/14167033/visual-studio-2010-replace-tab-with-4-spaces XCode: <link> <link> tackoverflow.com/questions/16208065/xcode-indentation-alignment-settings-spaces-tabs (look into the first answer) 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:371
@@ -4472,7 +4472,7 @@ Tags:
 Endorsements:1
 Response To:371
 Subject:
-Content:The default setting is the setting that you get when you create a new project (say in Visual Studio or XCode). You can change the default setting to generate all compiler warnings as follows: Visual Studio: <link> http://msdn.microsoft.com/en-us/library/thxezb7y.aspx; also see <link> http://msdn.microsoft.com/en-us/library/23k5d385.aspx XCode: <link> http://blog.manbolo.com/2012/08/17/warnings-in-xcode For Visual Studio, the "/Wall" option enables all warnings. For XCode, there is the "-Wall" option, and there is also the more advanced option "-Weverything" that prints even more stuff. Note: Wall = Warn All
+Content:The default setting is the setting that you get when you create a new project (say in Visual Studio or XCode). You can change the default setting to generate all compiler warnings as follows: Visual Studio: <link> <link> sdn.microsoft.com/en-us/library/thxezb7y.aspx; also see <link> <link> sdn.microsoft.com/en-us/library/23k5d385.aspx XCode: <link> <link> log.manbolo.com/2012/08/17/warnings-in-xcode For Visual Studio, the "/Wall" option enables all warnings. For XCode, there is the "-Wall" option, and there is also the more advanced option "-Weverything" that prints even more stuff. Note: Wall = Warn All
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:373
@@ -4580,7 +4580,7 @@ Tags:
 Endorsements:0
 Response To:380
 Subject:
-Content:lldb is Apple's debugger in Xcode. If your program stops executing on it's own, it's probably because something went wrong and you have a run-time error. An example of this would be diving by 0, but there could also be lots of other things. Might be helpful: <link> http://stackoverflow.com/questions/16999127/lldb-run-time-error-on-xcode <link> https://developer.apple.com/library/mac/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/Introduction.html 
+Content:lldb is Apple's debugger in Xcode. If your program stops executing on it's own, it's probably because something went wrong and you have a run-time error. An example of this would be diving by 0, but there could also be lots of other things. Might be helpful: <link> <link> tackoverflow.com/questions/16999127/lldb-run-time-error-on-xcode <link> <link> eveloper.apple.com/library/mac/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/Introduction.html 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:382
@@ -4651,7 +4651,7 @@ Created:2014-09-11T03:16:33Z
 Tags:
 Endorsements:0
 Response To:386
-Subject:The link in your note has a hashtag (or pound sign, however you want to call it!) before projects: https://www.umich.edu/~eecs183/#projects/project1/project1.html The correct link does not: <link> https://www.umich.edu/~eecs183/projects/project1/project1.html
+Subject:The link in your note has a hashtag (or pound sign, however you want to call it!) before projects: <link> ww.umich.edu/~eecs183/#projects/project1/project1.html The correct link does not: <link> <link> ww.umich.edu/~eecs183/projects/project1/project1.html
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -5372,7 +5372,7 @@ Tags:project1
 Endorsements:0
 Response To:-1
 Subject:Don't know where to start
-Content:I'm confused on where to start for project 1. If we don't have a certain amount of people to bake for how are we coming up with what we need to make&#8230;. 
+Content:I'm confused on where to start for project 1. If we don't have a certain amount of people to bake for how are we coming up with what we need to make.... 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:448
@@ -5804,7 +5804,7 @@ Tags:project1
 Endorsements:0
 Response To:-1
 Subject:{ (expected unqualified id ) on xcode
-Content:I've been working on Project 1 and have imported the cupcakes.cpp file as stated in the directions and xcode guide. I ran this program with no edits and it worked. I decided to see if it would run once I began putting in code using the "hello world" example from class. { cout << &#8220;Hello World&#8221; << endl; return0; } Yet it will not run because it keeps calling "{" an 'expected unqualified-id' deleting the braces creates more errors because they are necessary to put the code between, and repeating int main() is also an error because it is a redeclaration. How can I start my project when the very first character causes an error? How do I get rid of this error?
+Content:I've been working on Project 1 and have imported the cupcakes.cpp file as stated in the directions and xcode guide. I ran this program with no edits and it worked. I decided to see if it would run once I began putting in code using the "hello world" example from class. { cout << "Hello World" << endl; return0; } Yet it will not run because it keeps calling "{" an 'expected unqualified-id' deleting the braces creates more errors because they are necessary to put the code between, and repeating int main() is also an error because it is a redeclaration. How can I start my project when the very first character causes an error? How do I get rid of this error?
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:484
@@ -5840,7 +5840,7 @@ Tags:
 Endorsements:1
 Response To:485
 Subject:
-Content:The style grader fits that bill exactly. http://eecsstyle.herokuapp.com/
+Content:The style grader fits that bill exactly. <link> ecsstyle.herokuapp.com/
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:487
@@ -6104,7 +6104,7 @@ Tags:
 Endorsements:1
 Response To:507
 Subject:
-Content:<link> https://www.umich.edu/~eecs183/docs/course_policies.html#_codelab_2 !
+Content:<link> <link> ww.umich.edu/~eecs183/docs/course_policies.html#_codelab_2 !
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:509
@@ -6224,7 +6224,7 @@ Tags:
 Endorsements:2
 Response To:516
 Subject:
-Content:Yes, system("pause"); will make you fail the autograder. You need to set a breakpoint. See https://www.umich.edu/~eecs183/docs/getting_started_with_visual_studio.html#_running_the_program.
+Content:Yes, system("pause"); will make you fail the autograder. You need to set a breakpoint. See <link> ww.umich.edu/~eecs183/docs/getting_started_with_visual_studio.html#_running_the_program.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:519
@@ -6692,7 +6692,7 @@ Tags:other
 Endorsements:0
 Response To:-1
 Subject:Survey -- views of Computer Scoence
-Content:This is an opportunity to participate in a research study concerning viewpoints on Computer Science. A research faculty in CSE (Rada Mihalcea) would love your input -- and you get 1 point for taking the survey. The survey can be accessed here. https://umich.qualtrics.com/SE/?SID=SV_6mua27SdwIXkk3H Note: This is for "information purposes" only. The deadline to get your 1 point towards your final grade is: SEPTEMBER 19th Thank you for assisting with her research
+Content:This is an opportunity to participate in a research study concerning viewpoints on Computer Science. A research faculty in CSE (Rada Mihalcea) would love your input -- and you get 1 point for taking the survey. The survey can be accessed here. <link> mich.qualtrics.com/SE/?SID=SV_6mua27SdwIXkk3H Note: This is for "information purposes" only. The deadline to get your 1 point towards your final grade is: SEPTEMBER 19th Thank you for assisting with her research
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:558
@@ -7400,7 +7400,7 @@ Tags:codelab, other
 Endorsements:0
 Response To:-1
 Subject:URGENT: CANNOT LOG INTO CODELAB!!!
-Content:Why can't I log in the CodeLab? It just said &#8220;Please Wait...&#8221; and nothing come out!!! The codelab is due at midnight!!! Plz help me! THX!
+Content:Why can't I log in the CodeLab? It just said "Please Wait..." and nothing come out!!! The codelab is due at midnight!!! Plz help me! THX!
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:617
@@ -7471,7 +7471,7 @@ Created:2014-09-13T15:18:28Z
 Tags:
 Endorsements:0
 Response To:616
-Subject:If you have trouble logging into CodeLab, please send an email to turingscraft support. Navigate to the "Click here for customer support" on the CodeLab signin page, which will bring you to: <link> https://codelab3.turingscraft.com/codelab/jsp/customerServiceBeforeLogin.jsp Follow the instructions to receive help for this type of issue.
+Subject:If you have trouble logging into CodeLab, please send an email to turingscraft support. Navigate to the "Click here for customer support" on the CodeLab signin page, which will bring you to: <link> <link> odelab3.turingscraft.com/codelab/jsp/customerServiceBeforeLogin.jsp Follow the instructions to receive help for this type of issue.
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -7952,7 +7952,7 @@ Tags:
 Endorsements:0
 Response To:661
 Subject:
-Content:See https://www.umich.edu/~eecs183/projects/project1/project1.html#_sample_output. Choose a diff checker website, copy and paste your output on one side, copy and paste the expected output on the other side and compare.
+Content:See <link> ww.umich.edu/~eecs183/projects/project1/project1.html#_sample_output. Choose a diff checker website, copy and paste your output on one side, copy and paste the expected output on the other side and compare.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:663
@@ -8000,7 +8000,7 @@ Tags:project1
 Endorsements:0
 Response To:-1
 Subject:Recipe for Cupcakes
-Content:Hello, I guess I'm pretty confused on what the recipe for the cupcakes actually are. So I see that we have this list for a batch of cupcakes: One batch of &#8220;Best Ever&#8221; Vanilla Cupcakes (makes 12 cupcakes): 1 &#189; cups all-purpose flour 1 cup granulated sugar 1 &#189; teaspoons baking powder &#189; teaspoon table salt &#189; cup unsalted butter (1 stick), room temperature &#189; cup sour cream 1 large egg, room temperature 2 large egg yolks, room temperature 1 &#189; teaspoons vanilla extract Vanilla Buttercream Frosting: 1 cup (8 ounces) unsalted butter, at room temperature 2 &#189; cups powdered sugar 1 tablespoon (3 teaspoons) vanilla extract but I'm very confused. Should I follow this format or this format for output? The output from your program should be: How many batches need to be made A shopping list containing: how many bags of flour how many bags of granulated sugar how many pounds of butter how many containers of sour cream how many dozen eggs how many bags of powdered sugar how many bottles of vanilla 
+Content:Hello, I guess I'm pretty confused on what the recipe for the cupcakes actually are. So I see that we have this list for a batch of cupcakes: One batch of "Best Ever" Vanilla Cupcakes (makes 12 cupcakes): 1 1/2 cups all-purpose flour 1 cup granulated sugar 1 1/2 teaspoons baking powder 1/2 teaspoon table salt 1/2 cup unsalted butter (1 stick), room temperature 1/2 cup sour cream 1 large egg, room temperature 2 large egg yolks, room temperature 1 1/2 teaspoons vanilla extract Vanilla Buttercream Frosting: 1 cup (8 ounces) unsalted butter, at room temperature 2 1/2 cups powdered sugar 1 tablespoon (3 teaspoons) vanilla extract but I'm very confused. Should I follow this format or this format for output? The output from your program should be: How many batches need to be made A shopping list containing: how many bags of flour how many bags of granulated sugar how many pounds of butter how many containers of sour cream how many dozen eggs how many bags of powdered sugar how many bottles of vanilla 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:667
@@ -8012,7 +8012,7 @@ Tags:
 Endorsements:0
 Response To:666
 Subject:
-Content:See <link> https://www.umich.edu/~eecs183/projects/project1/project1.html#_sample_output for some sample output that will illustrate how your program is supposed to behave.
+Content:See <link> <link> ww.umich.edu/~eecs183/projects/project1/project1.html#_sample_output for some sample output that will illustrate how your program is supposed to behave.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:668
@@ -8120,7 +8120,7 @@ Tags:
 Endorsements:0
 Response To:675
 Subject:
-Content:Yes, we will grade (for correctness and style) your last submission to the autograder at https://umich.edu/~eecs183/autograder.
+Content:Yes, we will grade (for correctness and style) your last submission to the autograder at <link> mich.edu/~eecs183/autograder.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:677
@@ -9056,7 +9056,7 @@ Tags:
 Endorsements:0
 Response To:753
 Subject:
-Content:https://www.umich.edu/~eecs183/docs/getting_started_with_xcode_5.html#_tuning_xcode !
+Content:<link> ww.umich.edu/~eecs183/docs/getting_started_with_xcode_5.html#_tuning_xcode !
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:755
@@ -9092,7 +9092,7 @@ Tags:project1
 Endorsements:0
 Response To:-1
 Subject:I think this Sample is wrong
-Content: I think that this Sample is wrong on the "pounds of butter" part because in the recipe it said that we use 1/2 cup of butter for each batch. Which means if we have 2 batches we use 1 cup of butter, and that's less than 1 Ib of butter. but in the sample it said that 2 batches will get them 2 Ib of butter?? Do you get my point? 1 lb Butter $2.50 2 cups in 1 lb Sample run 3 How many people do you need to serve? 13 You need to make: 2 batches of cupcakes Shopping List for "Best Ever" Vanilla Cupcakes ---------------------------------------------- 1 bag of flour 1 bag of granulated sugar 2 pounds of butter 1 container of sour cream 1 dozen eggs 1 bag of powdered sugar 1 bottle of vanilla Total expected cost of ingredients: $20.34 Have a great party! One batch of &#8220;Best Ever&#8221; Vanilla Cupcakes (makes 12 cupcakes): 1 &#189; cups all-purpose flour 1 cup granulated sugar 1 &#189; teaspoons baking powder &#189; teaspoon table salt &#189; cup unsalted butter (1 stick), room temperature &#189; cup sour cream 1 large egg, room temperature 2 large egg yolks, room temperature 1 &#189; teaspoons vanilla extract 
+Content: I think that this Sample is wrong on the "pounds of butter" part because in the recipe it said that we use 1/2 cup of butter for each batch. Which means if we have 2 batches we use 1 cup of butter, and that's less than 1 Ib of butter. but in the sample it said that 2 batches will get them 2 Ib of butter?? Do you get my point? 1 lb Butter $2.50 2 cups in 1 lb Sample run 3 How many people do you need to serve? 13 You need to make: 2 batches of cupcakes Shopping List for "Best Ever" Vanilla Cupcakes ---------------------------------------------- 1 bag of flour 1 bag of granulated sugar 2 pounds of butter 1 container of sour cream 1 dozen eggs 1 bag of powdered sugar 1 bottle of vanilla Total expected cost of ingredients: $20.34 Have a great party! One batch of "Best Ever" Vanilla Cupcakes (makes 12 cupcakes): 1 1/2 cups all-purpose flour 1 cup granulated sugar 1 1/2 teaspoons baking powder 1/2 teaspoon table salt 1/2 cup unsalted butter (1 stick), room temperature 1/2 cup sour cream 1 large egg, room temperature 2 large egg yolks, room temperature 1 1/2 teaspoons vanilla extract 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:758
@@ -10243,7 +10243,7 @@ Created:2014-09-14T21:24:30Z
 Tags:
 Endorsements:0
 Response To:851
-Subject:But do we need to write a comment about every function we are using&amp;#xff1f;Will deleting or not deleting these comments influence my style point?
+Subject:But do we need to write a comment about every function we are using? Will deleting or not deleting these comments influence my style point?
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -10808,7 +10808,7 @@ Tags:
 Endorsements:2
 Response To:899
 Subject:
-Content:https://docs.google.com/a/umich.edu/forms/d/1wUeLHLHBTKKjCI2eOWEMrJkC-flyC7ySAmSy2RHOdDw/viewform
+Content:<link> ocs.google.com/a/umich.edu/forms/d/1wUeLHLHBTKKjCI2eOWEMrJkC-flyC7ySAmSy2RHOdDw/viewform
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:901
@@ -11000,7 +11000,7 @@ Tags:
 Endorsements:0
 Response To:915
 Subject:
-Content:Sign up for office hours. https://oh-manager.herokuapp.com/EECS183/FALL2014/
+Content:Sign up for office hours. <link> h-manager.herokuapp.com/EECS183/FALL2014/
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:917
@@ -11239,7 +11239,7 @@ Created:2014-09-15T18:48:13Z
 Tags:
 Endorsements:0
 Response To:934
-Subject:Sure can - it's all open source. If you go to the http://eecsstyle.herokuapp.com/ then click on source code, it's hosted on github.
+Subject:Sure can - it's all open source. If you go to the <link> ecsstyle.herokuapp.com/ then click on source code, it's hosted on github.
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -11528,7 +11528,7 @@ Tags:project1, unanswered
 Endorsements:0
 Response To:-1
 Subject:Extra bag of powdered sugar?
-Content:My program is ALMOST done but keeps returning an extra bag of powdered sugar. So my final cost is $1.18 more than it should be. Here's my pseudocode: batches * 2.5 = total cups needed bags needed = ceil (total cups needed / 5.5 cups per bag) cost = bags needed * 1.18 All variables are doubles. For some reason this returns the correct values when using an online compiler (like <link> http://ideone.com/) but not in MS Visual Studio. I'm either missing something simple, some weird way that VS handles compiling, or having a stroke. EDIT: I have no idea why VB is doing this but I just submitted the project and got a 50. I surmise that gremlins are to blame.
+Content:My program is ALMOST done but keeps returning an extra bag of powdered sugar. So my final cost is $1.18 more than it should be. Here's my pseudocode: batches * 2.5 = total cups needed bags needed = ceil (total cups needed / 5.5 cups per bag) cost = bags needed * 1.18 All variables are doubles. For some reason this returns the correct values when using an online compiler (like <link> <link> deone.com/) but not in MS Visual Studio. I'm either missing something simple, some weird way that VS handles compiling, or having a stroke. EDIT: I have no idea why VB is doing this but I just submitted the project and got a 50. I surmise that gremlins are to blame.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:961
@@ -13904,7 +13904,7 @@ Tags:
 Endorsements:0
 Response To:1157
 Subject:
-Content:We will grade your last submission to the autograder (<link> https://www.umich.edu/~eecs183/autograder) for style. 183style is available to you just to quickly check some of the aspects of style. None of the submits to 183style will be graded.
+Content:We will grade your last submission to the autograder (<link> <link> ww.umich.edu/~eecs183/autograder) for style. 183style is available to you just to quickly check some of the aspects of style. None of the submits to 183style will be graded.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1159
@@ -14384,7 +14384,7 @@ Tags:
 Endorsements:1
 Response To:1197
 Subject:
-Content:What would you like to report a bug for? If it's for 183style, head to <link> https://github.com/vianuevm/cppStyle/issues/ and create a new issue after making sure that it hasn't already been posted.
+Content:What would you like to report a bug for? If it's for 183style, head to <link> <link> ithub.com/vianuevm/cppStyle/issues/ and create a new issue after making sure that it hasn't already been posted.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1199
@@ -14432,7 +14432,7 @@ Tags:
 Endorsements:2
 Response To:1201
 Subject:
-Content:40 point out of the 1000 total points in the entire class. See https://www.umich.edu/~eecs183/docs/course_policies.html
+Content:40 point out of the 1000 total points in the entire class. See <link> ww.umich.edu/~eecs183/docs/course_policies.html
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1203
@@ -15008,7 +15008,7 @@ Tags:project2
 Endorsements:0
 Response To:-1
 Subject:Mistake in the Introduction of Project2
-Content:How to Submit Head to <link> https://umich.edu/~eecs183/autograder and choose $${\color{Red}{}} Project 1$$ - debug it. The file you submit to the autograder MUST be called... It is project 2. 
+Content:How to Submit Head to <link> <link> mich.edu/~eecs183/autograder and choose $${\color{Red}{}} Project 1$$ - debug it. The file you submit to the autograder MUST be called... It is project 2. 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1251
@@ -15824,7 +15824,7 @@ Tags:
 Endorsements:0
 Response To:1317
 Subject:
-Content:GSI meetings are in the basement of the Undergraduate Library on Central Campus. Professor instructor office hours are in their respective offices, as denoted on the course website: <link> https://www.umich.edu/~eecs183/#oh
+Content:GSI meetings are in the basement of the Undergraduate Library on Central Campus. Professor instructor office hours are in their respective offices, as denoted on the course website: <link> <link> ww.umich.edu/~eecs183/#oh
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1319
@@ -15956,7 +15956,7 @@ Tags:
 Endorsements:0
 Response To:1328
 Subject:
-Content:We use iClickers every lecture. That being said, you don't need points for every single day to get full credit. If you miss one, that's fine. The exact policy is available on the course website: <link> https://www.umich.edu/~eecs183/docs/course_policies.html#_iclicker_questions
+Content:We use iClickers every lecture. That being said, you don't need points for every single day to get full credit. If you miss one, that's fine. The exact policy is available on the course website: <link> <link> ww.umich.edu/~eecs183/docs/course_policies.html#_iclicker_questions
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1330
@@ -16028,7 +16028,7 @@ Tags:
 Endorsements:1
 Response To:1334
 Subject:
-Content:<link> http://turingscraft.com/support.php I'd email <link> support@turingscraft.com !
+Content:<link> <link> uringscraft.com/support.php I'd email <link> support@turingscraft.com !
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1336
@@ -16124,7 +16124,7 @@ Tags:
 Endorsements:0
 Response To:1342
 Subject:
-Content:Please start with the debugger introduction: <link> https://www.umich.edu/~eecs183/docs/debugging_in_visual_studio.pdf 
+Content:Please start with the debugger introduction: <link> <link> ww.umich.edu/~eecs183/docs/debugging_in_visual_studio.pdf 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1344
@@ -16328,7 +16328,7 @@ Tags:
 Endorsements:0
 Response To:1359
 Subject:
-Content:All the grades that have been released are available for you to view at <link> https://umich.edu/~eecs183/gradebook and on CTools. Project 1 score has not been yet released, since human graders need to check it for style. We'll be pulling i>clicker, Zyante and CodeLab data a few times throughout the semester. You should have a general idea of how you're doing in the course, but if you have specific questions, stop by at <link> Office Hours.
+Content:All the grades that have been released are available for you to view at <link> <link> mich.edu/~eecs183/gradebook and on CTools. Project 1 score has not been yet released, since human graders need to check it for style. We'll be pulling i>clicker, Zyante and CodeLab data a few times throughout the semester. You should have a general idea of how you're doing in the course, but if you have specific questions, stop by at <link> Office Hours.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1361
@@ -16424,7 +16424,7 @@ Tags:zyante
 Endorsements:0
 Response To:-1
 Subject:When exactly are Zyante's deadlines?
-Content: For example, for this one: Zyante 4.1&#8211;4.4 Mon, September 22, 12am &#8211; Tue, September 23, 12am CalendarCreated by 183deadlines maximal@umich.edu This deadline is the first time or the last time? 
+Content: For example, for this one: Zyante 4.1-4.4 Mon, September 22, 12am - Tue, September 23, 12am CalendarCreated by 183deadlines maximal@umich.edu This deadline is the first time or the last time? 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1369
@@ -16832,7 +16832,7 @@ Tags:codelab
 Endorsements:0
 Response To:-1
 Subject:CodeLab 11151
-Content:So, I've tried several different methods to get CodeLab to approve my solution. It appears as though multiple students are all having issues with this one. In order to satisfy the 'use inOrder() sparingly' requirement, you cannot use the proposed solution of 'if' statements for each condition (i.e. 1,1,1). I've exhausted virtually every way of rearranging the following statement. if (a <= b && b <= c && inOrder(a,b,c) == false) return false; At this point CodeLab doesn't even attempt to tell me an error. It dances around &#8658; Solutions with your approach don't usually use: == &#8658; Solutions with your approach don't usually use: else And if I amend my code to NOT use the '==', then it &#8658; You almost certainly should be using: == At this point, I'll take the few lost points. This question is ridiculous. EDIT: Thank you. Using that method CodeLab let it pass, despite using inOrder() about 9 times. 
+Content:So, I've tried several different methods to get CodeLab to approve my solution. It appears as though multiple students are all having issues with this one. In order to satisfy the 'use inOrder() sparingly' requirement, you cannot use the proposed solution of 'if' statements for each condition (i.e. 1,1,1). I've exhausted virtually every way of rearranging the following statement. if (a <= b && b <= c && inOrder(a,b,c) == false) return false; At this point CodeLab doesn't even attempt to tell me an error. It dances around => Solutions with your approach don't usually use: == => Solutions with your approach don't usually use: else And if I amend my code to NOT use the '==', then it => You almost certainly should be using: == At this point, I'll take the few lost points. This question is ridiculous. EDIT: Thank you. Using that method CodeLab let it pass, despite using inOrder() about 9 times. 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1403
@@ -17299,7 +17299,7 @@ Created:2014-09-24T22:26:11Z
 Tags:
 Endorsements:0
 Response To:1438
-Subject:See if this helps: <link> https://ctools.umich.edu/portal/site/f89c53b6-0efc-4252-a82b-56ba1f1e878a/page/1894c4ff-2047-434d-84d0-3bbc7625044d Go to "CodeLab: issue of codelab not loading"
+Subject:See if this helps: <link> <link> tools.umich.edu/portal/site/f89c53b6-0efc-4252-a82b-56ba1f1e878a/page/1894c4ff-2047-434d-84d0-3bbc7625044d Go to "CodeLab: issue of codelab not loading"
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -17419,7 +17419,7 @@ Created:2014-09-24T22:28:27Z
 Tags:
 Endorsements:0
 Response To:1448
-Subject:Yes, 220 out of approx. 268. <link> https://www.umich.edu/~eecs183/docs/course_policies.html 
+Subject:Yes, 220 out of approx. 268. <link> <link> ww.umich.edu/~eecs183/docs/course_policies.html 
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -17504,7 +17504,7 @@ Tags:
 Endorsements:0
 Response To:1457
 Subject:
-Content:This document will help you: <link> https://www.umich.edu/~eecs183/docs/debugging_in_visual_studio.pdf 
+Content:This document will help you: <link> <link> ww.umich.edu/~eecs183/docs/debugging_in_visual_studio.pdf 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1459
@@ -17576,7 +17576,7 @@ Tags:
 Endorsements:0
 Response To:1463
 Subject:
-Content:Yes they are. You can find more information about how your course grade is calculated here: <link> https://www.umich.edu/~eecs183/docs/course_policies.html 
+Content:Yes they are. You can find more information about how your course grade is calculated here: <link> <link> ww.umich.edu/~eecs183/docs/course_policies.html 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1465
@@ -17732,7 +17732,7 @@ Tags:
 Endorsements:0
 Response To:1476
 Subject:
-Content:https://docs.google.com/a/umich.edu/forms/d/1i0hemIvK3_N7sXI-XGzwjPmdq1cMR7rEXIIdlxKtaZM/viewform
+Content:<link> ocs.google.com/a/umich.edu/forms/d/1i0hemIvK3_N7sXI-XGzwjPmdq1cMR7rEXIIdlxKtaZM/viewform
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1478
@@ -18080,7 +18080,7 @@ Tags:codelab, no_history
 Endorsements:0
 Response To:-1
 Subject:codelab question 11135
-Content:I have problem with question 11135 on codelab, the question is like this: Write a loop that reads positive <link> integers from standard input and that terminates when it reads an<link> integer that is not positive. After the <link> loop terminates , it prints out the <link> sum of all the even <link> integers read, the <link> sum of all the odd <link> integers read, a count of the number of even <link> integers read, and a count of the number of odd <link> integers read, all separated by exactly one space. <link> Declare any <link> variables that are needed. and here is my answer: code removed by staff. I've tried many times but can't get the right answer, I don't know what's wrong with my code and the system says that: The Council agrees that: &#8658; Correct solutions that use sumOdd tend to also use numEVEN &#8658; Correct solutions that use sumOdd tend to also use numODD &#8658; Correct solutions that use sumOdd tend to also use countEven Can anyone tell me where am I wrong? 
+Content:I have problem with question 11135 on codelab, the question is like this: Write a loop that reads positive <link> integers from standard input and that terminates when it reads an<link> integer that is not positive. After the <link> loop terminates , it prints out the <link> sum of all the even <link> integers read, the <link> sum of all the odd <link> integers read, a count of the number of even <link> integers read, and a count of the number of odd <link> integers read, all separated by exactly one space. <link> Declare any <link> variables that are needed. and here is my answer: code removed by staff. I've tried many times but can't get the right answer, I don't know what's wrong with my code and the system says that: The Council agrees that: => Correct solutions that use sumOdd tend to also use numEVEN => Correct solutions that use sumOdd tend to also use numODD => Correct solutions that use sumOdd tend to also use countEven Can anyone tell me where am I wrong? 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1507
@@ -19160,7 +19160,7 @@ Tags:
 Endorsements:0
 Response To:1595
 Subject:
-Content:Take a look at <link> https://www.umich.edu/~eecs183/docs/debugging_in_visual_studio.pdf !
+Content:Take a look at <link> <link> ww.umich.edu/~eecs183/docs/debugging_in_visual_studio.pdf !
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1597
@@ -20144,7 +20144,7 @@ Tags:
 Endorsements:0
 Response To:1676
 Subject:
-Content:The student's answer in incorrect. You cannot have an empty char, just like you can't have an empty int, which must always have some value. The player will always enter a move (see @500), you just have to check that the move is valid. Note that strings are special in that they are sequences of characters of variable length&#8212;they can have zero or more characters. So you can have an empty string: "" (but not an empty char).
+Content:The student's answer in incorrect. You cannot have an empty char, just like you can't have an empty int, which must always have some value. The player will always enter a move (see @500), you just have to check that the move is valid. Note that strings are special in that they are sequences of characters of variable length-they can have zero or more characters. So you can have an empty string: "" (but not an empty char).
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1679
@@ -22159,7 +22159,7 @@ Created:2014-09-29T19:09:14Z
 Tags:
 Endorsements:0
 Response To:1843
-Subject:Check <link> https://www.umich.edu/~eecs183/oh. They are will Prof. Arthur before his lecture.
+Subject:Check <link> <link> ww.umich.edu/~eecs183/oh. They are will Prof. Arthur before his lecture.
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -22280,7 +22280,7 @@ Tags:
 Endorsements:1
 Response To:1855
 Subject:
-Content:FWIW, I googled it and came up with this result. <link> http://blogs.msdn.com/b/davidklinems/archive/2005/07/12/438061.aspx I don't think you'll have much of a problem but see if you have any uninitialized variables in your code that you use, initialize them and it may go away.
+Content:FWIW, I googled it and came up with this result. <link> <link> logs.msdn.com/b/davidklinems/archive/2005/07/12/438061.aspx I don't think you'll have much of a problem but see if you have any uninitialized variables in your code that you use, initialize them and it may go away.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1857
@@ -22964,7 +22964,7 @@ Tags:other, pin
 Endorsements:0
 Response To:-1
 Subject:Computer Science Scholarships
-Content:In class, we've mentioned career opportunities in computer science. However, there are also scholarships available promoting the study of computer science. Here are few I have been told about. Many of them are for $10,000+ and you are usually automatically considered for an internship as well. <link> Google Scholarships <link> Microsoft Explore Program (coming soon) Apple Software Inclusion and Diversity Scholarship (due November 7th) https://jobs.apple.com/us/search#&ss=scholarship&t=1&so=&lo=0*USA&pN=0&openJobId=35499570 Apple Internet Software and Services Scholarship (due November 7th) https://jobs.apple.com/us/search#&ss=scholarship&t=1&so=&lo=0*USA&pN=0&openJobId=35499523 Staff -- feel free to add others! #pin
+Content:In class, we've mentioned career opportunities in computer science. However, there are also scholarships available promoting the study of computer science. Here are few I have been told about. Many of them are for $10,000+ and you are usually automatically considered for an internship as well. <link> Google Scholarships <link> Microsoft Explore Program (coming soon) Apple Software Inclusion and Diversity Scholarship (due November 7th) <link> obs.apple.com/us/search#&ss=scholarship&t=1&so=&lo=0*USA&pN=0&openJobId=35499570 Apple Internet Software and Services Scholarship (due November 7th) <link> obs.apple.com/us/search#&ss=scholarship&t=1&so=&lo=0*USA&pN=0&openJobId=35499523 Staff -- feel free to add others! #pin
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:1914
@@ -24236,7 +24236,7 @@ Tags:project2
 Endorsements:0
 Response To:-1
 Subject:test 6 ismove good
-Content:<image> what's wrong with this&amp;#xff1f;&amp;#xff1f;
+Content:<image> what's wrong with this? ? 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2020
@@ -24524,7 +24524,7 @@ Tags:project2
 Endorsements:0
 Response To:-1
 Subject:Question for debugit
-Content:I wonder the questions for debugIt is given continuously or separately? I mean when we do the Q4&amp;#xff0c; do we need to start again to put a breakpoint on line 37 or just after putting a breakpoint on line34? Do we need to repeat the line numbers of all code visited/evaluated in Q2 to answer in Q4? Thank you.
+Content:I wonder the questions for debugIt is given continuously or separately? I mean when we do the Q4? do we need to start again to put a breakpoint on line 37 or just after putting a breakpoint on line34? Do we need to repeat the line numbers of all code visited/evaluated in Q2 to answer in Q4? Thank you.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2044
@@ -24968,7 +24968,7 @@ Tags:project2
 Endorsements:0
 Response To:-1
 Subject:Project 2 Style Guidelines Question
-Content:The style guidelines state: Acceptable: 1) RME&#8217;s with declarations before int main() Definitions after int main() 2) RME&#8217;s with definitions before int main() NOT Acceptable 1) RME&#8217;s with declarations before int main() Definitions before int main() 2) RME&#8217;s removed What exactly does that mean (especially the word RME)?
+Content:The style guidelines state: Acceptable: 1) RME's with declarations before int main() Definitions after int main() 2) RME's with definitions before int main() NOT Acceptable 1) RME's with declarations before int main() Definitions before int main() 2) RME's removed What exactly does that mean (especially the word RME)?
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2081
@@ -27944,7 +27944,7 @@ Tags:other, pin
 Endorsements:0
 Response To:-1
 Subject:EECS 183 Tutoring
-Content:Hey Everyone, EECS 183 now has tutoring available to you! Tutoring is on a first-come first-serve basis and will always be held in the UGLi basement. When you sign up, please include a topic you need help with in the Description box. You can sign up for a time slot here (limit one time slot per student): https://www.umich.edu/~eecs183/tutoring There will also be a tutoring tab on the class website starting today. If there are no more available tutoring slots, don't be discouraged. The tutors will add new hours every week. So keep checking back! #pin
+Content:Hey Everyone, EECS 183 now has tutoring available to you! Tutoring is on a first-come first-serve basis and will always be held in the UGLi basement. When you sign up, please include a topic you need help with in the Description box. You can sign up for a time slot here (limit one time slot per student): <link> ww.umich.edu/~eecs183/tutoring There will also be a tutoring tab on the class website starting today. If there are no more available tutoring slots, don't be discouraged. The tutors will add new hours every week. So keep checking back! #pin
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2329
@@ -28304,7 +28304,7 @@ Tags:
 Endorsements:0
 Response To:2357
 Subject:
-Content:Check out the project website: <link> https://www.umich.edu/~eecs183/projects/project2/project2.html 
+Content:Check out the project website: <link> <link> ww.umich.edu/~eecs183/projects/project2/project2.html 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2359
@@ -28868,7 +28868,7 @@ Tags:
 Endorsements:0
 Response To:2404
 Subject:
-Content:It'll be on <link> http://umich.edu/~eecs183/gradebook once we finish grading it for style. But you already know the correctness part of your grade from the autograder.
+Content:It'll be on <link> <link> mich.edu/~eecs183/gradebook once we finish grading it for style. But you already know the correctness part of your grade from the autograder.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2406
@@ -28952,7 +28952,7 @@ Tags:project2
 Endorsements:0
 Response To:-1
 Subject:help with my error
-Content:void printInitialHeader() { cout << "----------------------------------------" << endl; cout << " EECS 183 " << endl; cout << " Rock-Paper-Scissors " << endl; cout << "----------------------------------------" << endl << endl; } main.cpp:193:27: error: a function-definition is not allowed here before &#226;&amp;#xfffd;&amp;#xfffd;{&#226;&amp;#xfffd;&amp;#xfffd; token void printInitialHeader() {
+Content:void printInitialHeader() { cout << "----------------------------------------" << endl; cout << " EECS 183 " << endl; cout << " Rock-Paper-Scissors " << endl; cout << "----------------------------------------" << endl << endl; } main.cpp:193:27: error: a function-definition is not allowed here before &#226;&#xfffd;&#xfffd;{&#226;&#xfffd;&#xfffd; token void printInitialHeader() {
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2413
@@ -29276,7 +29276,7 @@ Tags:project1
 Endorsements:0
 Response To:-1
 Subject:What is the highest score on project 1?
-Content:I just got my grade on project 1. It's 52.5/50. My question is, according to project 1 grading guide: 50 points runnability. To what extent does your code implement the features required by our specification? To what extent is your code consistent with our specifications and free of bugs? To receive a 5% bonus for this part, submit your project no later than Mon 9/15. To receive a 2.5% bonus, submit no later than Tue 9/16. 10 points &#8220;code quality&#8221;. To what extent is your code written well? To what extent is your code readable? Consult EECS 183 Style Guide for some tips! I thought the highest score should be 52.5+10=62.5. I did 50 in runnability and submitted 2 days before due date. Is my style grade 0 or style hasn't been graded yet?
+Content:I just got my grade on project 1. It's 52.5/50. My question is, according to project 1 grading guide: 50 points runnability. To what extent does your code implement the features required by our specification? To what extent is your code consistent with our specifications and free of bugs? To receive a 5% bonus for this part, submit your project no later than Mon 9/15. To receive a 2.5% bonus, submit no later than Tue 9/16. 10 points "code quality". To what extent is your code written well? To what extent is your code readable? Consult EECS 183 Style Guide for some tips! I thought the highest score should be 52.5+10=62.5. I did 50 in runnability and submitted 2 days before due date. Is my style grade 0 or style hasn't been graded yet?
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2440
@@ -29528,7 +29528,7 @@ Tags:project3
 Endorsements:0
 Response To:-1
 Subject:Partner Matching Survey - Version 2
-Content:If you replied the first time we sent this out, you will need to RE-DO the request. We did not capture your login information so we had no way to contact you. Sorry for the inconvenience. This request is for those who would like us to match you with a partner. The link is: https://docs.google.com/a/umich.edu/forms/d/1fp4bqDB3naGE5XOKKbSSycdUM_DzKoTxW7llKLrfTBo/viewform?usp=send_form Thanks
+Content:If you replied the first time we sent this out, you will need to RE-DO the request. We did not capture your login information so we had no way to contact you. Sorry for the inconvenience. This request is for those who would like us to match you with a partner. The link is: <link> ocs.google.com/a/umich.edu/forms/d/1fp4bqDB3naGE5XOKKbSSycdUM_DzKoTxW7llKLrfTBo/viewform?usp=send_form Thanks
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2461
@@ -29984,7 +29984,7 @@ Tags:
 Endorsements:0
 Response To:2497
 Subject:
-Content:This might help. See the first solution: <link> http://stackoverflow.com/questions/16682235/visual-studio-2010-cannot-open-source-file-qtgui-qapplication 
+Content:This might help. See the first solution: <link> <link> tackoverflow.com/questions/16682235/visual-studio-2010-cannot-open-source-file-qtgui-qapplication 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2499
@@ -31196,7 +31196,7 @@ Tags:
 Endorsements:0
 Response To:2598
 Subject:
-Content:Just Codelab, as it froze at 7 p.m. instead of 11:59 p.m. The deadline for Zyante 5.5 &#8211; 5.7 was actually Wednesday before lecture, though we check if you've completed it on Friday nights.
+Content:Just Codelab, as it froze at 7 p.m. instead of 11:59 p.m. The deadline for Zyante 5.5 - 5.7 was actually Wednesday before lecture, though we check if you've completed it on Friday nights.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2600
@@ -31772,7 +31772,7 @@ Tags:
 Endorsements:0
 Response To:2646
 Subject:
-Content:everyone except for the 3 that sent the request today, all have been matched. Both partners received an email listing both uniqnames. I have been doing matches multiple times per day for students. I checked and you did not submit a request. All you need to do is submit a request -- https://docs.google.com/a/umich.edu/forms/d/1fp4bqDB3naGE5XOKKbSSycdUM_DzKoTxW7llKLrfTBo/viewform?usp=send_form
+Content:everyone except for the 3 that sent the request today, all have been matched. Both partners received an email listing both uniqnames. I have been doing matches multiple times per day for students. I checked and you did not submit a request. All you need to do is submit a request -- <link> ocs.google.com/a/umich.edu/forms/d/1fp4bqDB3naGE5XOKKbSSycdUM_DzKoTxW7llKLrfTBo/viewform?usp=send_form
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2648
@@ -32767,7 +32767,7 @@ Created:2014-10-06T14:45:50Z
 Tags:
 Endorsements:0
 Response To:2724
-Subject:It's up for me- if that link still isn't working, try this: https://www.youtube.com/watch?v=yzpXIV4Lrk4
+Subject:It's up for me- if that link still isn't working, try this: <link> ww.youtube.com/watch?v=yzpXIV4Lrk4
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -32911,7 +32911,7 @@ Created:2014-10-06T03:52:13Z
 Tags:
 Endorsements:0
 Response To:2735
-Subject:<link> https://www.umich.edu/~eecs183/projects/project3/project3.html ! I'd also take a look at the tutorial for Project 3 that will be available on <link> umich.edu/~eecs183/tutorials within the next hour.
+Subject:<link> <link> ww.umich.edu/~eecs183/projects/project3/project3.html ! I'd also take a look at the tutorial for Project 3 that will be available on <link> umich.edu/~eecs183/tutorials within the next hour.
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -33884,7 +33884,7 @@ Tags:
 Endorsements:1
 Response To:2822
 Subject:
-Content:str.length() Tim explained it in last night's tutorial: <link> https://www.umich.edu/~eecs183/tutorials and go to 11:50.
+Content:str.length() Tim explained it in last night's tutorial: <link> <link> ww.umich.edu/~eecs183/tutorials and go to 11:50.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2824
@@ -34028,7 +34028,7 @@ Tags:
 Endorsements:0
 Response To:2834
 Subject:
-Content:Take a look at <link> https://www.umich.edu/~eecs183/projects/project3/project3.html#_test_suite_2. You need to create a better test suite if you want to expose all bugs.
+Content:Take a look at <link> <link> ww.umich.edu/~eecs183/projects/project3/project3.html#_test_suite_2. You need to create a better test suite if you want to expose all bugs.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2836
@@ -35624,7 +35624,7 @@ Tags:
 Endorsements:0
 Response To:2967
 Subject:
-Content:swap() is not included in <cmath>, but in <string>. <link> http://www.cplusplus.com/reference/string/string/swap-free/ Depending on what you want to swap (numbers vs strings), you might need to write your own function.
+Content:swap() is not included in <cmath>, but in <string>. <link> <link> ww.cplusplus.com/reference/string/string/swap-free/ Depending on what you want to swap (numbers vs strings), you might need to write your own function.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:2969
@@ -36632,7 +36632,7 @@ Tags:
 Endorsements:0
 Response To:3050
 Subject:
-Content: I was just reading the instructions and saw this... "Therefore, the call print_rectangle(-1, 5); // not a valid call is not valid since it violates the Requires clause. The Requires clause means that this MUST be true when the function is called. It is not the responsibility of the function to check. It is the responsibility of the programming calling the function to guarantee that the Requires clause is adhered to. And if you do this and submit this code to the autograder, you will get a 0. The feedback will state you violated the &#8220;assertion&#8221;. The autograder is written to make absolutely sure you adhere to those Requires clauses. When you submit test1.cpp, we will compile and run it with our correct implementation of asciiart.cpp and with our buggy implementation of asciiart.cpp, so as to generate two different outputs. We&#8217;ll then compare two outputs. If there is any difference, you&#8217;ve successfully exposed a bug! The autograder does not go into the details of what the difference is, it only sees if there exists a difference." According to the part in bold, you shouldn't be testing negative values. 
+Content: I was just reading the instructions and saw this... "Therefore, the call print_rectangle(-1, 5); // not a valid call is not valid since it violates the Requires clause. The Requires clause means that this MUST be true when the function is called. It is not the responsibility of the function to check. It is the responsibility of the programming calling the function to guarantee that the Requires clause is adhered to. And if you do this and submit this code to the autograder, you will get a 0. The feedback will state you violated the "assertion". The autograder is written to make absolutely sure you adhere to those Requires clauses. When you submit test1.cpp, we will compile and run it with our correct implementation of asciiart.cpp and with our buggy implementation of asciiart.cpp, so as to generate two different outputs. We'll then compare two outputs. If there is any difference, you've successfully exposed a bug! The autograder does not go into the details of what the difference is, it only sees if there exists a difference." According to the part in bold, you shouldn't be testing negative values. 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:3053
@@ -36883,7 +36883,7 @@ Created:2014-10-09T17:25:33Z
 Tags:project3
 Endorsements:0
 Response To:-1
-Subject:&amp;#xff03;endif without &amp;#xff03;if error in asciiart.h??
+Subject:#endif without #if error in asciiart.h??
 Content:What does it mean by "#endif without #if " shown in asciiart.cpp? Thanks!
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -36992,7 +36992,7 @@ Tags:
 Endorsements:2
 Response To:3081
 Subject:
-Content:<link> http://lmgtfy.com/?q=C%2B%2B+Raise+Power In other words, yes :)
+Content:<link> <link> mgtfy.com/?q=C%2B%2B+Raise+Power In other words, yes :)
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:3083
@@ -37544,7 +37544,7 @@ Tags:
 Endorsements:0
 Response To:3127
 Subject:
-Content:From <link> project 3 specification: Both partners' names and uniqnames go in both students' submits, and BOTH must do the final submit. Your code may be identical to your partner&#8217;s or be different, whatever you want. We will grade them all individually for runnability; partnering means we will ignore any similarities between the two partners. This also means that if only one partner submits, only that one will get credit. 
+Content:From <link> project 3 specification: Both partners' names and uniqnames go in both students' submits, and BOTH must do the final submit. Your code may be identical to your partner's or be different, whatever you want. We will grade them all individually for runnability; partnering means we will ignore any similarities between the two partners. This also means that if only one partner submits, only that one will get credit. 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:3129
@@ -38251,7 +38251,7 @@ Created:2014-10-11T01:44:37Z
 Tags:
 Endorsements:0
 Response To:3185
-Subject:I reported to Zyante 11 days ago that two of their questions were not accepting valid code. They confirmed the code was valid and said my answer had a set of parenthesis the question was now expecting. Does that count as a bug? Zyante Support <support@zyante.com> Sep 29 (11 days ago) <image> alt="" <image> alt="" <image> alt="" to me <image> alt="" Hi Your answer is valid however the question was not expecting parenthesis around the statements. Thank you, Sarah Zyante Support On Fri, Sep 26, 2014 at 5:55 PM, <<link> no-reply@zyante.com> wrote: Bug reported on <link> https://zybooks.zyante.com/#/zybook/UMichFall2014 : Comments: my code is not accepted by your website despite matching the answer and functioning in Xcode. This refers to 4.1.3 problem number 2 Problem: "If numPeople is greater than 10, execute groupSize = 2 * groupSize. Otherwise, execute groupSize = 3 * groupSize and also numPeople = numPeople - 1." my code: if (numPeople > 10) { groupSize = (2 * groupSize); } else { groupSize = (3 * groupSize); numPeople = (numPeople - 1); } Timestamp: 2014-09-27T00:54:59.254Z Rating: 0 Content resource ID: 632407 Canonical section ID: None Direct link to resource: <link> https://zybooks.zyante.com/#/resource/632407 
+Subject:I reported to Zyante 11 days ago that two of their questions were not accepting valid code. They confirmed the code was valid and said my answer had a set of parenthesis the question was now expecting. Does that count as a bug? Zyante Support <support@zyante.com> Sep 29 (11 days ago) <image> alt="" <image> alt="" <image> alt="" to me <image> alt="" Hi Your answer is valid however the question was not expecting parenthesis around the statements. Thank you, Sarah Zyante Support On Fri, Sep 26, 2014 at 5:55 PM, <<link> no-reply@zyante.com> wrote: Bug reported on <link> <link> ybooks.zyante.com/#/zybook/UMichFall2014 : Comments: my code is not accepted by your website despite matching the answer and functioning in Xcode. This refers to 4.1.3 problem number 2 Problem: "If numPeople is greater than 10, execute groupSize = 2 * groupSize. Otherwise, execute groupSize = 3 * groupSize and also numPeople = numPeople - 1." my code: if (numPeople > 10) { groupSize = (2 * groupSize); } else { groupSize = (3 * groupSize); numPeople = (numPeople - 1); } Timestamp: 2014-09-27T00:54:59.254Z Rating: 0 Content resource ID: 632407 Canonical section ID: None Direct link to resource: <link> <link> ybooks.zyante.com/#/resource/632407 
 Content:None
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -40844,7 +40844,7 @@ Tags:
 Endorsements:0
 Response To:3402
 Subject:
-Content:Take a look at <link> https://www.umich.edu/~eecs183/exams/exam1/exam1.html !
+Content:Take a look at <link> <link> ww.umich.edu/~eecs183/exams/exam1/exam1.html !
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:3404
@@ -40940,7 +40940,7 @@ Tags:
 Endorsements:0
 Response To:3410
 Subject:
-Content:Yup, we'll just be using row major arrays. For more info, check out this page: http://en.wikipedia.org/wiki/Row-major_order
+Content:Yup, we'll just be using row major arrays. For more info, check out this page: <link> n.wikipedia.org/wiki/Row-major_order
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Piazza Post:3412
