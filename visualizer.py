@@ -43,7 +43,7 @@ def drawWordCloud(binnedDict, baseFontSize):
     '''
 
 
-def drawTimeLine(piazzaPostDict, phrases = False, baseFontSize):
+def drawTimeLine(piazzaPostDict, baseFontSize, phrases = False):
     '''
     * Requires: piazzaPostDict is a dictionary of piazzaPost objects.
     *           It has string keys, and piazzaPost objects as values.

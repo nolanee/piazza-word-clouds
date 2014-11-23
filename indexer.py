@@ -145,7 +145,8 @@ if __name__=='__main__':
   #This is test code that should run the first time you run "python indexer.py"
   #Expected output is (not including the triple quotes):
   """
---------------------------------------------------------------------------------Piazza Post: 3422
+---------------------------------------------------------------------------------
+Piazza Post: 3422
 Poster: instructor
 Num Views: None
 Type: i_answer

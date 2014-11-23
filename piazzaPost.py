@@ -32,7 +32,7 @@ class PiazzaPost(object):
     #p = PiazzaPost()
     #print p
     def __str__(self):
-        s = "-"*80
+        s = "-"*80+"\n"
         s += "Piazza Post: "+str(self.id)+"\n"
         s += "Poster: "+self.poster+"\n"
         s += "Num Views: "+self.stringNone(self.numViews)+"\n"
@@ -43,7 +43,7 @@ class PiazzaPost(object):
         s += "Response To: "+str(self.responseTo)+"\n"
         s += "Subject: "+self.stringNone(self.subject)+"\n"
         s += "Content: "+self.stringNone(self.content)+"\n"
-        s += "-"*80
+        s += "-"*80+"\n"
         return s
 
     #Helper function for __str__() that deals with null (None) values
