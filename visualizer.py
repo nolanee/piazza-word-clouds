@@ -1,6 +1,71 @@
 import pygame, sys
 
 
+def getTfidfDictionary(singlePiazzaPost):
+    '''
+    * Requires: singlePiazzaPost is a piazzaPost object.
+    * Modifies: Nothing.
+    * Effects:  Returns a dictionary of words/phrases as keys,
+    *           and their tfidf as values.
+    '''
+
+
+def binPiazzaPosts(piazzaPostDict, phrases):
+    '''
+    * Requires: piazzaPostDict is a dictionary of piazzaPost objects.
+    *           It has string keys, and piazzaPost objects as values.
+    *           Keys are IDs of piazzaPost objects.
+    *
+    *           phrases is a boolean.
+    *           When True, return phrases (collocations).
+    *           When False, return words.
+    *
+    * Modifies: Nothing.
+    *
+    * Effects:  Bins the posts according to days/weeks.
+    *           Returns a dictionary of dictionaries.
+    *           Keys are dates/weeks.
+    *           Values are dictionaries of words/phrases, with their tfidfs.
+    *           If phrases = True, returns phrases. Else returns words.
+    *
+    * Calls:    getTfidfDictionary
+    '''
+
+
+def drawWordCloud(binnedDict, baseFontSize):
+    '''
+    * Requires: binnedDict is a dictionary with string keys and float values.
+    *           baseFontSize is an integer > 0.
+    *           binnedDict has words/phrases as keys, and their tfidf as values.
+    *           baseFontSize is the size of the smallest allowable font.
+    * Modifies: Nothing.
+    * Effects:  Returns a word cloud surface.
+    '''
+
+
+def drawTimeLine(piazzaPostDict, phrases = False, baseFontSize):
+    '''
+    * Requires: piazzaPostDict is a dictionary of piazzaPost objects.
+    *           It has string keys, and piazzaPost objects as values.
+    *           Keys are IDs of piazzaPost objects.
+    *
+    *           phrases is a boolean.
+    *           When True, return phrases (collocations).
+    *           When False, return words.
+    *
+    *           baseFontSize is an integer > 0.
+    *           It is the size of the smallest allowable font.
+    *
+    * Modifies: Nothing.
+    * Effects:  Returns a timeline surface (to be blitted onto screen).
+    *           The timeline surface consists of multiple word clouds,
+    *           each one for a separate bin.
+    *
+    * Calls:    binPiazzaPosts
+    *           drawWordCloud
+    '''
+
+
 def initializeScreen(caption, screenWidth, screenHeight, backgroundColor):
     '''
     * Requires: caption is a string.
