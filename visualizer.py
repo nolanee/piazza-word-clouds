@@ -85,6 +85,18 @@ def initializeScreen(caption, screenWidth, screenHeight, backgroundColor):
 
 
 if __name__=='__main__':
+    '''
+    * Requires: Nothing.
+    * Modifies: Nothing.
+    * Effects:  Draws an animated timeline on a screen.
+    *
+    *           The function MUST implement a loop that
+    *           goes through and highlights each word
+    *           cloud in turn.
+    *
+    * Calls:    initializeScreen
+    *           drawTimeLine
+    '''
     white = (255, 255, 255)
     screen = initializeScreen("Snow White", 640, 480, white)
     # This is test code that should run the first time you run "python visualizer.py"
