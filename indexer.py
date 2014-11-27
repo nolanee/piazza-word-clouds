@@ -133,7 +133,7 @@ def readPiazzaData(fname):
 
     #We know the format
     for i in range(0,len(lines),12):
-        data = [lines[i+j].strip().split(":")[1] for j in range(1,11)]
+        data = [":".join(lines[i+j].strip().split(":")[1:]) for j in range(1,11)]
         data[5] = data[5].split(",")
         p = PiazzaPost(data)
         posts[str(i/12)] = p
@@ -145,16 +145,16 @@ if __name__=='__main__':
   #This is test code that should run the first time you run "python indexer.py"
   #Expected output is (not including the triple quotes):
   """
----------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 Piazza Post: 3422
 Poster: instructor
 Num Views: None
 Type: i_answer
-Created: 2014-10-15T18
+Created: 2014-10-15T18:45:39Z
 Tags: 
 Endorsements: 1
 Response To: 3421
 Subject: 
-Content: Please include the question itself when posting about CodeLab (as stated in @6). As for the feedback, it usually gives you examples that CodeLab runs, listing what your result was and what the final result should have been. In terms of corner cases, some possibilities to think about are
+Content: Please include the question itself when posting about CodeLab ( as stated in @ 6 ) . As for the feedback , it usually gives you examples that CodeLab runs , listing what your result was and what the final result should have been. In terms of corner cases , some possibilities to think about are : what happens if you insert into an array of size 0 ? Size 1 ? An array that is already at its maximum capacity ?
 --------------------------------------------------------------------------------
   """
