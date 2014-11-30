@@ -170,14 +170,14 @@ if __name__=='__main__':
   """
 --------------------------------------------------------------------------------
 Piazza Post: 3422
-Poster: instructor
-Num Views: None
-Type: i_answer
-Created: 2014-10-15T18:45:39Z
-Tags: 
-Endorsements: 1
-Response To: 3421
-Subject: 
-Content: Please include the question itself when posting about CodeLab ( as stated in @ 6 ) . As for the feedback , it usually gives you examples that CodeLab runs , listing what your result was and what the final result should have been. In terms of corner cases , some possibilities to think about are : what happens if you insert into an array of size 0 ? Size 1 ? An array that is already at its maximum capacity ?
+Poster: student
+Num Views: 5
+Type: question
+Created: 2014-10-15T13:22:02Z
+Tags: lecture
+Endorsements: 0
+Response To: -1
+Subject: `` Row Major '' Arrays
+Content: Is it fair to assume that any given array is `` row major '' or will it be specified in any way ? Is there such a thing as a `` column major '' array ?
 --------------------------------------------------------------------------------
-  """
+"""
