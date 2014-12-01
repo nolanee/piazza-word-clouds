@@ -2,10 +2,11 @@ import pygame, sys
 from indexer import *
 
 
-def binPiazzaPosts(phrases):
+def binPiazzaPosts(index, phrases):
     '''
-    * Requires: phrases is an integer (1 to 4).
+    * Requires: index is an Indexer() object.
     *
+    *           phrases is an integer (1 to 4).
     *           When phrases = 1, return words (unigrams).
     *           When phrases = 2, return bigrams
     *           When phrases = 3, return trigrams.
@@ -37,9 +38,11 @@ def drawWordCloud(singleBinDict, baseFontSize):
     '''
 
 
-def drawTimeLine(baseFontSize, phrases = 1):
+def drawTimeLine(index, baseFontSize, phrases = 1):
     '''
-    * Requires: phrases is an integer (1 to 4).
+    * Requires: index is an Indexer() object.
+    *
+    *           phrases is an integer (1 to 4).
     *           When phrases = 1, return words (unigrams).
     *           When phrases = 2, return bigrams
     *           When phrases = 3, return trigrams.
