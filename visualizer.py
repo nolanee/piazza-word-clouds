@@ -2,15 +2,14 @@ import pygame, sys
 from indexer import *
 
 
-def binPiazzaPosts(piazzaPostDict, phrases):
+def binPiazzaPosts(phrases):
     '''
-    * Requires: piazzaPostDict is a dictionary of piazzaPost objects.
-    *           It has string keys, and piazzaPost objects as values.
-    *           Keys are IDs of piazzaPost objects.
+    * Requires: phrases is an integer (1 to 4).
     *
-    *           phrases is a boolean.
-    *           When True, return phrases (collocations).
-    *           When False, return words.
+    *           When phrases = 1, return words (unigrams).
+    *           When phrases = 2, return bigrams
+    *           When phrases = 3, return trigrams.
+    *           When phrases = 4, return fourgrams.
     *
     * Modifies: Nothing.
     *
@@ -38,15 +37,13 @@ def drawWordCloud(singleBinDict, baseFontSize):
     '''
 
 
-def drawTimeLine(piazzaPostDict, baseFontSize, phrases = False):
+def drawTimeLine(baseFontSize, phrases = 1):
     '''
-    * Requires: piazzaPostDict is a dictionary of piazzaPost objects.
-    *           It has string keys, and piazzaPost objects as values.
-    *           Keys are IDs of piazzaPost objects.
-    *
-    *           phrases is a boolean.
-    *           When True, return phrases (collocations).
-    *           When False, return words.
+    * Requires: phrases is an integer (1 to 4).
+    *           When phrases = 1, return words (unigrams).
+    *           When phrases = 2, return bigrams
+    *           When phrases = 3, return trigrams.
+    *           When phrases = 4, return fourgrams.
     *
     *           baseFontSize is an integer > 0.
     *           It is the size of the smallest allowable font.
