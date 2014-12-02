@@ -20,7 +20,6 @@ def binPiazzaPosts(index, phrases):
     *           Values are dictionaries of words/phrases, with their tfidfs.
     *           idf has already been computed by the indexer, but you
     *           will need to compute the tf's in each bin for each word.
-    *           If phrases = True, returns phrases. Else returns words.
     '''
 
 
@@ -38,26 +37,17 @@ def drawWordCloud(singleBinDict, baseFontSize):
     '''
 
 
-def drawTimeLine(index, baseFontSize, phrases = 1):
+def drawTimeLine(dictOfDicts):
     '''
-    * Requires: index is an Indexer() object.
-    *
-    *           phrases is an integer (1 to 4).
-    *           When phrases = 1, return words (unigrams).
-    *           When phrases = 2, return bigrams
-    *           When phrases = 3, return trigrams.
-    *           When phrases = 4, return fourgrams.
-    *
-    *           baseFontSize is an integer > 0.
-    *           It is the size of the smallest allowable font.
+    * Requires: dictOfDicts is a dictionary of dictionaries.
+    *           dictOfDicts is returned by binPiazzaPosts().
     *
     * Modifies: Nothing.
     * Effects:  Returns a timeline surface (to be blitted onto screen).
     *           The timeline surface consists of multiple word clouds,
     *           each one for a separate bin.
     *
-    * Calls:    binPiazzaPosts
-    *           drawWordCloud
+    * Calls:    drawWordCloud
     *           SEE README FOR DETAILS
     '''
 
@@ -103,6 +93,7 @@ if __name__=='__main__':
     *           cloud in turn.
     *
     * Calls:    initializeScreen
+    *           binPiazzaPosts
     *           drawTimeLine
     '''
     index = Indexer()
