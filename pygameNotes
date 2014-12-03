@@ -1,0 +1,55 @@
+Installing PyGame
+
+MAC
+-------------------------------------------------------------------------------
+
+1. install homebrew
+
+1.1 xcode-select --install
+1.2 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+1.3 Go to this url
+
+http://coolestguidesontheplanet.com/installing-homebrew-os-x-yosemite-10-10-package-manager-unix-apps/
+
+Download Xquartz from the link there, about halfway down the page
+
+1.4 brew doctor
+
+You'll get warnings - ignore them
+
+2. Installing PyGame
+
+2.1 brew install mercurial
+2.2a brew install sdl sdl_image sdl_mixer sdl_ttf smpeg portmidi
+
+This will probably give you an error "no formula found for smpeg"
+If not, continue to 2.3
+
+2.2b brew tap homebrew/headonly
+2.2c brew install --HEAD smpeg
+     
+This will take a long time and install multiple things. You may
+also get a timeout error. If you do, make sure you are not connected to MGuest.
+MGuest will block the url you need to download from.
+
+2.2d brew install sdl sdl_image sdl_mixer sdl_ttf portmidi 
+
+2.3 sudo pip install hg+http://bitbucket.org/pygame/pygame
+
+3. Testing
+
+3.1 open terminal
+3.2 type 'python' without quotes
+3.3 type 'import pygame' without quotes
+3.4 if nothing happens, it worked!
+    if it said something like "no module named pygame", then send me an email.
+
+Windows
+--------------------------------------------------------------------------
+You will need to go to the link below and choose the correct msi file.
+
+http://www.pygame.org/download.shtml
+
+The exact file you need depends on which version of python you are running.
+You can see it by starting up the python interpreter. It will print the
+version number.
