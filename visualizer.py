@@ -1,5 +1,6 @@
 import pygame, sys
 from indexer import *
+from time import *
 
 
 def binPiazzaPosts(index, phrases):
@@ -101,6 +102,7 @@ if __name__=='__main__':
     dummyIndex(index) #replace this once indexer is finished
     white = (255, 255, 255)
     screen = initializeScreen("Snow White", 640, 480, white)
+    sleep(1)
     # This is test code that should run the first time you run "python visualizer.py"
     # Expected output is a window of size 640 by 480 pixels, with white background, and title "Snow White".
 
