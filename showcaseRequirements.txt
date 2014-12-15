@@ -1,0 +1,43 @@
+Requirements for the EECS183 Showcase on Tuesday
+
+These are specific instructions for the EECS183 showcase.
+You should also follow the instructions given in Piazza @4265
+
+At the showcase, Shibu and I (separately) will be having just a five
+minute conversation with your group. We're interested in a couple things:
+
+1. Which reach(es) did you do? Why did you pick these?
+2. What did you find out? Ideally you might hypothetically have a nice visual
+   aid for this part in the form of a word cloud or timeline
+3. What were you expecting to find out? How are your results different?
+4. What do you think caused these surprising results?
+
+We also want your presentation to look nice. Shibu and I don't care very
+much - only 1 point out of the 5 are for appearance - but we are not the
+only ones at the showcase. Other students, people, and company representatives
+may come talk to you about your project. To this end it needs to be
+visually appealing and easy to understand.
+
+For these people, the questions are likely to be a little different:
+
+1. What did you do?
+2. How did you do it?
+3. What does it (the picture) mean?
+
+If you get someone who is knowledgable about NLP, they may ask other things:
+
+1. How does tfidf work? Not mathematically, but the general idea - in other
+   words: what can make a word important in tfidf?
+2. They could totally ask you other questions that there's no way you'll know
+   the answer to. Don't feel bad. Feel free to try to give answers, but
+   don't worry. They won't know what you know so, really, don't worry.
+
+Shibu and I have office hours tomorrow and we'd be happy to talk with you
+about any of these questions. Basically, each of these first four questions 
+is going to be worth one point, and then the visuals are worth 1 point as well.
+
+The total is 5 points, and then there are 5 points for attendance. You cannot
+get the first 5 points if you do not attend.
+
+Looking forward to seeing you all there,
+Reed and Shibu
